@@ -1,13 +1,13 @@
 moveit_setup_assistant_config:
   urdf:
     package: mycobot_description
-    relative_path: urdf/mycobot_320_pi_2022/new_mycobot_pro_320_pi_moveit_2022.urdf
+    relative_path: urdf/mycobot_320_pi_2022/mycobot_320_pi_moveit_2022.urdf
   srdf:
     relative_path: config/firefighter.srdf
   package_settings:
     author_name: Eric
     author_email: ceo.ekang@clawforhumanity.ca
-    generated_timestamp: 1717579811
+    generated_timestamp: 1720506643
   control_xacro:
     command:
       - position

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.22)
-project(mycobot320pi-moveit)
+project(mycobot_320pi_moveit2)
 
 find_package(ament_cmake REQUIRED)
 
