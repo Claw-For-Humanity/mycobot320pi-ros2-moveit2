@@ -3,6 +3,7 @@
 This is moveit2 node for mycobot320pi (ros2)
 
 *****URDF SETTING & INSTALLATION*****
+
 download both ros-noetic and ros-humble repository provided by elephant robotics
 
 for ros2, move mycobot_description into the src and remove all the files under urdf folder
