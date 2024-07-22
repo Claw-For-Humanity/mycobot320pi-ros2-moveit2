@@ -1,6 +1,6 @@
-**ros2 moveit 2 node elephant robotics mycobot 320pi**
+**Mycobot 320pi ROS2-moveit2 package**
 
-This is moveit2 node for mycobot320pi (ros2)
+This is moveit2 package for mycobot320pi (ros2)
 
 *****URDF SETTING & INSTALLATION*****
 
